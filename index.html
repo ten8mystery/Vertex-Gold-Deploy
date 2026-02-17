@@ -408,7 +408,6 @@ async function loadGames() {
         const response = await fetch(gamesUrl);
         let games = await response.json();
         
-        // Correctly set the total count before filtering
         document.getElementById('game-total').textContent = games.length;
 
         let filteredGames = games.filter(g => 
