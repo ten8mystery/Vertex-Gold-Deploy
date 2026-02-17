@@ -4,9 +4,10 @@
 
 <h1>The only gaming site you will ever need.</h1>
 
-</div>
+<div align='center'>
 
 Mini version of gold meant to be deployed
+
 
 
 
